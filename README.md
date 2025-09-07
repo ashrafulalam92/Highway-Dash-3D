@@ -1,1 +1,1 @@
-# Highway-Dash-3D
+A fast-paced 3D racing game where players compete against 3 AI opponents across 5 challenging levels. Race through a realistic highway environment with customizable lap counts (1, 3, or 5 laps) and difficulty settings while collecting coins along the track. The game features dynamic day/night modes, realistic car physics with collision detection, and multiple camera views for an immersive racing experience. Progress through all levels to unlock the ultimate victory screen and prove yourself as the highway racing champion.
